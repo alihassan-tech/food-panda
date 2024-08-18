@@ -95,7 +95,7 @@ class _WelcomeState extends State<Welcome> {
             ),
             ListTile(
               title: Text(
-                'Sign up or Log in',
+                'Sign up or Log in!',
                 style: TextStyle(fontFamily: Medium, color: Colors.black),
               ),
               leading: Icon(Icons.login_outlined),
